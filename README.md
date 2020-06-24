@@ -1,0 +1,1 @@
+# Multispectral-Edge-Filtered-McGAN
